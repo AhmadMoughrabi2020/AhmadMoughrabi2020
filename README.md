@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmadMoughrabi2020
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Linux/CyberSecurity
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ML Project
+- 💞️ I’m looking to collaborate on Linux Projects
 - 📫 How to reach me ahmadmoughrabi2020@gmail.com    or   phone number +961 76/486811
 
 <!---
